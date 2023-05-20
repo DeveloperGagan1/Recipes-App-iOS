@@ -26,3 +26,8 @@ The Recipes App is an iOS mobile application that provides a collection of popul
 ### Step 3:
 #### Tap on any Dessert to Check it's Recipe (Ingredients followed by Instructions)
 <img src="https://github.com/DeveloperGagan1/Recipes-App-iOS/assets/82459706/428ca3bc-3d2a-4649-96f0-8af59964da85" style="width:360px;height:780px;">
+
+## Acknowledgements
+I would like to acknowledge the following individuals and resources for their contributions to the development of the Recipes App:
+* The developers of the recipe API provider (TheMealDB) for making their data available.
+* My friends and family for their support and encouragement throughout the app development process.
