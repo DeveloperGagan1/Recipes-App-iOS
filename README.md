@@ -17,14 +17,13 @@ The Recipes App is an iOS mobile application that provides a collection of popul
 ## How to use
 ### Step 1:
 #### Tap on RecipesApp's icon.
-<img src="https://github.com/DeveloperGagan1/Recipes-App-iOS/assets/82459706/67cfa9a2-830a-4c74-bed9-a36c90f885ef" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-20 at 20 08 08" style="width:90px;height:195px;">
-
+<img src="https://github.com/DeveloperGagan1/Recipes-App-iOS/assets/82459706/67cfa9a2-830a-4c74-bed9-a36c90f885ef" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-20 at 20 08 08" style="width:360px;height:780px;">
 
 ### Step 2:
 #### Browse Recipes (Scroll to View More Recipes)
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-20 at 20 06 40](https://github.com/DeveloperGagan1/Recipes-App-iOS/assets/82459706/848c3192-06dd-4593-ab08-12af7a960813)
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-20 at 20 06 40](https://github.com/DeveloperGagan1/Recipes-App-iOS/assets/82459706/21ad8eb7-3066-4381-9b31-50a34228ee85)
+<img src="https://github.com/DeveloperGagan1/Recipes-App-iOS/assets/82459706/848c3192-06dd-4593-ab08-12af7a960813" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-20 at 20 08 08" style="width:360px;height:780px;">
+<img src="https://github.com/DeveloperGagan1/Recipes-App-iOS/assets/82459706/21ad8eb7-3066-4381-9b31-50a34228ee85" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-20 at 20 08 08" style="width:360px;height:780px;">
 
 ### Step 3:
 #### Tap on any Dessert to Check it's Recipe (Ingredients followed by Instructions)
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-20 at 20 06 53](https://github.com/DeveloperGagan1/Recipes-App-iOS/assets/82459706/428ca3bc-3d2a-4649-96f0-8af59964da85)
+<img src="https://github.com/DeveloperGagan1/Recipes-App-iOS/assets/82459706/428ca3bc-3d2a-4649-96f0-8af59964da85" style="width:360px;height:780px;">
