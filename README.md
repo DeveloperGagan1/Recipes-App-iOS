@@ -17,7 +17,8 @@ The Recipes App is an iOS mobile application that provides a collection of popul
 ## How to use
 ### Step 1:
 #### Tap on RecipesApp's icon.
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-20 at 20 08 08](https://github.com/DeveloperGagan1/Recipes-App-iOS/assets/82459706/67cfa9a2-830a-4c74-bed9-a36c90f885ef)
+<img src="https://github.com/DeveloperGagan1/Recipes-App-iOS/assets/82459706/67cfa9a2-830a-4c74-bed9-a36c90f885ef" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-20 at 20 08 08" style="width:400px;height:800px;">
+
 
 ### Step 2:
 #### Browse Recipes (Scroll to View More Recipes)
